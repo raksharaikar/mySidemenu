@@ -1,0 +1,20 @@
+.badges{
+
+  opacity: 1;
+  height: 20px; 
+}
+
+
+.review-btns{
+
+  height: 30px;
+
+  --padding-start: 20px;
+  --padding-end: 20px;
+}
+
+.review-chip{
+
+  padding: 0px 25px;
+  background-color:red;
+}

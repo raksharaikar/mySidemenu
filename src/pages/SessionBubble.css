@@ -1,0 +1,23 @@
+.session-bubble-info ion-col{
+
+width:20%!important;
+text-align:center!important;
+}
+
+
+
+.session-bubble-icon{
+
+  width:100%;
+  font-size:25px;
+}
+
+.session-bubble-hr{
+
+  background-color: #dfdfdf;
+}
+
+.session-bubbles ion-col{
+
+  text-align:center!important;
+}

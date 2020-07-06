@@ -1,0 +1,18 @@
+.passage{
+    float: right;
+    margin: 0px;
+}
+
+
+.session-radio-btns  ion-item {
+
+    font-size:14px;
+}
+
+.session-radio-btn-numbers ion-avatar{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+
+}

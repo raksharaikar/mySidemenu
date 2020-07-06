@@ -1,0 +1,46 @@
+.qapp-my-test-item-text-wrap {
+    text-overflow: ellipsis !important;
+    white-space: normal !important;
+    line-height: 1em !important;
+    display: -webkit-box !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-line-clamp: 2 !important;
+}
+
+.qapp-my-test-icon-row ion-icon,
+.qapp-my-test-icon-row img {
+    font-size: 25px;
+}
+
+.qapp-my-test-toastAfterHeader {
+    position: absolute;
+    display: block;
+    top: 96px;
+}
+
+.qapp-menu-notification-btn {
+    margin: 0px 12px 0px 0px;
+    --padding-start: 0px;
+    height: 48px;
+}
+
+.qapp-menu-notification-badge {
+    position: absolute;
+    top: 4px;
+    right: -7px;
+    padding: 3px 5px;
+    border-radius: 50%;
+    font-size: 10px;
+}
+
+.qapp-header-notification-badge {
+    position: absolute;
+    top: -8px;
+    right: -5px;
+    padding: 3px 5px;
+    border-radius: 50%;
+}
+
+.qapp-menu-notification-icon-size {
+    font-size: 24px;
+}

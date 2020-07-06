@@ -1,0 +1,97 @@
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+.new{
+padding-left:5px;
+  text-align: left;
+  width: 100% !important;
+  max-width: 100% !important;
+  cursor: pointer!important;
+}
+
+.qapp-qs-time-toolbar-style{
+  margin: 5px 0px 0px 0px;
+    padding-bottom: 5px;
+    border-bottom:1px solid #e1e1e1;
+
+}
+
+.qapp-qs-toolbar-pause-btn, .qapp-qs-toolbar-stop-btn{
+
+border: 1px solid #b8b8b8;
+border-radius: 50%;
+--padding-start:6px!important;
+--padding-end:6px!important;
+
+}
+
+
+
+.qapp-qs-toolbar-stop-btn ion-icon{
+color:red!important;
+  
+  }
+
+  .in-item{
+
+    max-width:80%!important;
+  }
+
+
+.qapp-timer-chip{
+
+  margin-right:10px;
+}
+
+
+.padding-none{
+
+
+--padding-start	:0px!important;
+--inner-padding-end: 0px!important;
+
+}
+
+
+
+.padding-left-none{
+  padding-left: 0px!important;
+
+}
+
+.text-wrap{
+  text-overflow: ellipsis!important;
+  white-space: normal!important;
+  
+}
+.content-style{
+font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: #666;
+ 
+    }
+
+ .text-wrap p{color:#000!important;} 
+
+ .text-wrap-black  p{color:#000!important;} 
+
+
+
+
+    .radio-font ion-label{font-size:14px!important;}
+
+
+    .quiz-session-card{
+    box-shadow:none;
+
+
+}

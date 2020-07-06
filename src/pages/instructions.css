@@ -1,0 +1,72 @@
+.instruction-top-img{
+
+margin:auto!important;
+
+}
+
+.qapp-instr-card-content{
+  Display:flex;
+  justify-content: center;;
+
+}
+
+.instruction-card-1{
+padding: 8px;
+    border: 1px solid #d8d8d8;
+
+}
+
+.instruction-card-left-img{
+display: contents;}
+
+
+.content-style{
+    font-size: 14px;
+        font-weight: 400;
+        line-height: normal;
+        color: #666;
+     
+        }
+
+        .left-margin{
+        margin-left: 10%!important;
+    }
+
+    .section-table{
+    width:100%;
+
+}
+
+.instruction-note{
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+    padding-top: 15px;
+}
+
+
+.text-wrap{
+    text-overflow: ellipsis!important;
+    white-space: normal!important;
+    
+  }
+
+
+
+
+
+.iconText{
+
+    position:absolute; top:5; left:10
+}
+  
+.iconPos{
+
+    position:relative;
+}
+
+
+.instruction-section-table-size ion-item{
+font-size:14px;
+
+}
